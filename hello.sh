@@ -1,0 +1,1 @@
+echo "Hello BASH... Im testing Git and GitHub"
